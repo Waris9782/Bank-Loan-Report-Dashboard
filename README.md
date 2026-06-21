@@ -29,84 +29,84 @@ The dashboard was built using the following tools and technologies:
 - 📁 File Formats – .pbix for development, .xlsx and .csv for data sources, and .png for dashboard previews.
 
 ## 4. Data Source
-Dataset Overview
+**Dataset Overview**
 
 The dataset contains detailed information about loan applications, borrower demographics, funding activities, repayment performance, and loan status.
 
-Key Data Attributes
-Loan ID
-Loan Status
-Loan Amount
-Funded Amount
-Amount Received
-Interest Rate
-Debt-to-Income Ratio (DTI)
-Home Ownership
-Employment Length
-Loan Purpose
-Loan Term
-Grade & Sub Grade
-State
-Issue Date
+- Key Data Attributes
+- Loan ID
+- Loan Status
+- Loan Amount
+- Funded Amount
+- Amount Received
+- Interest Rate
+- Debt-to-Income Ratio (DTI)
+- Home Ownership
+- Employment Length
+- Loan Purpose
+- Loan Term
+- Grade & Sub Grade
+- State
+- Issue Date
 
 The raw data was cleaned, transformed, and modeled to support advanced analytics and reporting.
 
 ## 5. Features / Highlights
-• Business Problem
+**• Business Problem**
 
 Financial institutions process thousands of loan applications every year. Monitoring lending performance, identifying risky loans, tracking repayments, and understanding borrower behavior can be challenging when working with raw transactional data.
 
-Key questions include:
+**Key questions include:**
 
-What percentage of loans are performing well versus defaulting?
-Which states generate the highest loan demand?
-What loan purposes drive the most applications?
-How do interest rates and DTI impact loan performance?
-Which borrower segments present higher risk?
-What are the monthly trends in loan applications and funding?
+- What percentage of loans are performing well versus defaulting?
+- Which states generate the highest loan demand?
+- What loan purposes drive the most applications?
+- How do interest rates and DTI impact loan performance?
+- Which borrower segments present higher risk?
+- What are the monthly trends in loan applications and funding?
 
 Without a centralized reporting system, answering these questions becomes time-consuming and inefficient.
 
-• Goal of the Dashboard
+**• Goal of the Dashboard**
 
 The primary objectives of this dashboard are:
 
-Monitor overall lending performance.
-Evaluate loan portfolio health.
-Track funded and recovered amounts.
-Analyze borrower demographics and behavior.
-Identify good and bad loan segments.
-Support risk assessment and lending decisions.
-Enable interactive exploration through filters and drill-down capabilities.
+- Monitor overall lending performance.
+- Evaluate loan portfolio health.
+- Track funded and recovered amounts.
+- Analyze borrower demographics and behavior.
+- Identify good and bad loan segments.
+- Support risk assessment and lending decisions.
+- Enable interactive exploration through filters and drill-down capabilities.
 
 ## • Walkthrough of Key Visuals
-1️⃣ Executive Summary Dashboard
+**1️⃣ Executive Summary Dashboard**
 Designed for senior management and business stakeholders.
 
-Key KPIs
-📌 Total Loan Applications: 38.6K
-📌 Total Funded Amount: $435.8M
-📌 Total Amount Received: $473.1M
-📌 Average Interest Rate: 12.0%
-📌 Average DTI: 13.3%
+**Key KPIs**
+- Total Loan Applications: 38.6K
+- Total Funded Amount: $435.8M
+- Total Amount Received: $473.1M
+- Average Interest Rate: 12.0%
+- Average DTI: 13.3%
 
 This section provides an instant snapshot of overall portfolio performance.
 
 2️⃣ Good Loan vs Bad Loan Analysis
 One of the most critical sections for risk monitoring.
 
-Good Loan Portfolio
+**Good Loan Portfolio**
 
-✅ Applications: 33.2K
-✅ Funded Amount: $370.2M
-✅ Amount Received: $435.8M
-✅ Portfolio Share: 86.2%
+- Applications: 33.2K
+- Funded Amount: $370.2M
+- Amount Received: $435.8M
+- Portfolio Share: 86.2%
 
-Bad Loan Portfolio
-⚠ Applications: 5.3K
-⚠ Funded Amount: $65.5M
-⚠ Amount Received: $37.3M
-⚠ Portfolio Share: 13.8%
+**Bad Loan Portfolio**
+- Applications: 5.3K
+- Funded Amount: $65.5M
+- Amount Received: $37.3M
+- Portfolio Share: 13.8%
 
 Business Value-
 Allows risk teams to evaluate portfolio quality and monitor potential credit losses.
@@ -197,22 +197,22 @@ Business Value-
 Enables deep-dive analysis and investigation of individual loan records.
 
 ## • Business Impact & Insights
-📈 Portfolio Performance Monitoring
+**Portfolio Performance Monitoring**
 Enables management teams to continuously track lending performance and repayment efficiency.
 
-⚠️ Risk Identification
+**Risk Identification**
 Quickly identifies bad loan segments, helping reduce default risk and improve credit strategies.
 
-🌎 Geographic Analysis
+**Geographic Analysis**
 Supports expansion planning by identifying regions with strong loan demand.
 
-👥 Customer Segmentation
+**Customer Segmentation**
 Provides insights into borrower characteristics, employment status, and ownership patterns.
 
-💰 Lending Strategy Optimization
+**Lending Strategy Optimization**
 Helps financial institutions allocate resources efficiently and refine lending policies.
 
-📊 Data-Driven Decision Making
+**Data-Driven Decision Making**
 Transforms raw loan data into actionable insights that support strategic business decisions.
 
 ## Project Outcome
