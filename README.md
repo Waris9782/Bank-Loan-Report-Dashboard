@@ -229,4 +229,4 @@ This project demonstrates a complete end-to-end Data Analytics workflow:
 - Executive-Level Reporting
 
 ## Screenshorts
-Show what the dashboard looks like.
+Show what the dashboard looks like. - [Dashboard Summary](https://github.com/Waris9782/Bank-Loan-Report-Dashboard/blob/main/Bank%20Loan%20Report%20Summary.png)
