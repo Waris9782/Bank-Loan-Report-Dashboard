@@ -1,21 +1,25 @@
-##🏦 Bank Loan Report Dashboard | End-to-End Banking Analytics Solution
+## 🏦 Bank Loan Report Dashboard | End-to-End Banking Analytics Solution
 
 An interactive and data-driven Power BI dashboard designed to analyze bank loan applications, funding performance, repayment trends, borrower profiles, and loan quality metrics. The solution helps financial institutions monitor lending activities, assess portfolio health, and make informed business decisions.
 
-##2. Short Description / Purpose
+## 2. Short Description / Purpose
 
 The Bank Loan Analytics Dashboard was developed to help financial institutions transform raw loan data into meaningful business insights. By combining data engineering, analytics, and visualization techniques, the dashboard enables stakeholders to monitor loan performance, assess borrower behavior, track repayment trends, and identify potential risk areas.
 
 The solution provides a 360-degree view of the loan portfolio, helping decision-makers improve lending strategies, reduce default risks, and make data-driven business decisions.
 
-3. Tech Stack
+## 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Primary platform for dashboard development and interactive visualizations.
+
 🗄️ SQL – Data extraction, querying, and business logic implementation.
+
 📈 Microsoft Excel – Data cleaning, preprocessing, and validation.
+
 🐍 Python – Data transformation, analysis, and preparation.
+
 🔄 Power Query – ETL processes, data cleaning, and transformation.
 🧠 DAX (Data Analysis Expressions) – Calculated measures, KPIs, and dynamic reporting logic.
 🔗 Data Modeling – Relationship creation and optimization for efficient reporting.
