@@ -21,7 +21,7 @@ The dashboard was built using the following tools and technologies:
 🔗 Data Modeling – Relationship creation and optimization for efficient reporting.
 📁 File Formats – .pbix for development, .xlsx and .csv for data sources, and .png for dashboard previews.
 
-4. Data Source
+## 4. Data Source
 Dataset Overview
 
 The dataset contains detailed information about loan applications, borrower demographics, funding activities, repayment performance, and loan status.
@@ -44,7 +44,7 @@ Issue Date
 
 The raw data was cleaned, transformed, and modeled to support advanced analytics and reporting.
 
-5. Features / Highlights
+## 5. Features / Highlights
 • Business Problem
 
 Financial institutions process thousands of loan applications every year. Monitoring lending performance, identifying risky loans, tracking repayments, and understanding borrower behavior can be challenging when working with raw transactional data.
@@ -72,7 +72,7 @@ Identify good and bad loan segments.
 Support risk assessment and lending decisions.
 Enable interactive exploration through filters and drill-down capabilities.
 
-• Walkthrough of Key Visuals
+## • Walkthrough of Key Visuals
 1️⃣ Executive Summary Dashboard
 Designed for senior management and business stakeholders.
 
@@ -189,7 +189,7 @@ A transactional-level dashboard designed for analysts.
 Business Value-
 Enables deep-dive analysis and investigation of individual loan records.
 
-• Business Impact & Insights
+## • Business Impact & Insights
 📈 Portfolio Performance Monitoring
 Enables management teams to continuously track lending performance and repayment efficiency.
 
@@ -208,7 +208,7 @@ Helps financial institutions allocate resources efficiently and refine lending p
 📊 Data-Driven Decision Making
 Transforms raw loan data into actionable insights that support strategic business decisions.
 
-🚀 Project Outcome
+## Project Outcome
 
 This project demonstrates a complete end-to-end Data Analytics workflow:
 
@@ -222,5 +222,5 @@ This project demonstrates a complete end-to-end Data Analytics workflow:
 - Financial & Risk Analytics
 - Executive-Level Reporting
 
-Screenshorts
+## Screenshorts
 Show what the dashboard looks like.
