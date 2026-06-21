@@ -45,7 +45,7 @@ The dataset contains detailed information about loan applications, borrower demo
 The raw data was cleaned, transformed, and modeled to support advanced analytics and reporting.
 
 ## 5. Features / Highlights
-**• Business Problem**
+**Business Problem**
 
 Financial institutions process thousands of loan applications every year. Monitoring lending performance, identifying risky loans, tracking repayments, and understanding borrower behavior can be challenging when working with raw transactional data.
 
@@ -60,7 +60,7 @@ Financial institutions process thousands of loan applications every year. Monito
 
 Without a centralized reporting system, answering these questions becomes time-consuming and inefficient.
 
-**• Goal of the Dashboard**
+**Goal of the Dashboard**
 
 The primary objectives of this dashboard are:
 
@@ -73,7 +73,7 @@ The primary objectives of this dashboard are:
 - Enable interactive exploration through filters and drill-down capabilities.
 
 ## • Walkthrough of Key Visuals
-**1️⃣ Executive Summary Dashboard**
+1️⃣ **Executive Summary Dashboard**
 Designed for senior management and business stakeholders.
 
 **Key KPIs**
@@ -85,7 +85,7 @@ Designed for senior management and business stakeholders.
 
 This section provides an instant snapshot of overall portfolio performance.
 
-2️⃣ Good Loan vs Bad Loan Analysis
+2️⃣ **Good Loan vs Bad Loan Analysis**
 One of the most critical sections for risk monitoring.
 
 **Good Loan Portfolio**
@@ -104,7 +104,7 @@ One of the most critical sections for risk monitoring.
 Business Value-
 Allows risk teams to evaluate portfolio quality and monitor potential credit losses.
 
-3️⃣ Monthly Loan Application Trend Analysis
+3️⃣ **Monthly Loan Application Trend Analysis**
 Visual: Line Chart
 
 Tracks loan applications across different months.
@@ -117,7 +117,7 @@ Insights Generated
 
 This helps management identify peak lending periods and customer demand patterns.
 
-4️⃣ Geographic Lending Analysis
+4️⃣ **Geographic Lending Analysis**
 Visual: Interactive US Map
 
 Analyzes loan applications across different states.
@@ -128,7 +128,7 @@ Analyzes loan applications across different states.
 - Support branch expansion decisions
 - Optimize marketing campaigns
 
-5️⃣ Loan Term Analysis
+5️⃣ **Loan Term Analysis**
 Visual: Donut Chart
 Breakdown of loan applications by term:
 
@@ -138,14 +138,14 @@ Breakdown of loan applications by term:
 
 Understand borrower preferences regarding repayment duration and loan affordability.
 
-6️⃣ Employment Length Analysis
+6️⃣ **Employment Length Analysis**
 Visual: Horizontal Bar Chart
 Measures loan applications across employment categories.
 
 Business Impact-
 Provides insight into borrower stability and employment history, which are important factors in credit evaluation. 
 
-7️⃣ Loan Purpose Analysis
+7️⃣ **Loan Purpose Analysis**
 Visual: Ranked Bar Chart
 
 Most common borrowing purposes include:
@@ -160,7 +160,7 @@ Most common borrowing purposes include:
 Business Value-
 Helps lenders understand customer borrowing behavior and develop targeted loan products.
 
-8️⃣ Home Ownership Analysis
+8️⃣ **Home Ownership Analysis**
 Visual: Treemap
 Borrowers categorized as:
 
@@ -171,7 +171,7 @@ Borrowers categorized as:
 Business Value-
 Supports customer segmentation and risk profiling.
 
-9️⃣ Detailed Loan Reporting
+9️⃣ **Detailed Loan Reporting**
 
 A transactional-level dashboard designed for analysts.
 
@@ -189,23 +189,23 @@ A transactional-level dashboard designed for analysts.
 Business Value-
 Enables deep-dive analysis and investigation of individual loan records.
 
-## • Business Impact & Insights
+## Business Impact & Insights
 **Portfolio Performance Monitoring** -
 Enables management teams to continuously track lending performance and repayment efficiency.
 
-**Risk Identification**
+**Risk Identification** -
 Quickly identifies bad loan segments, helping reduce default risk and improve credit strategies.
 
-**Geographic Analysis**
+**Geographic Analysis** -
 Supports expansion planning by identifying regions with strong loan demand.
 
-**Customer Segmentation**
+**Customer Segmentation** -
 Provides insights into borrower characteristics, employment status, and ownership patterns.
 
-**Lending Strategy Optimization**
+**Lending Strategy Optimization** -
 Helps financial institutions allocate resources efficiently and refine lending policies.
 
-**Data-Driven Decision Making**
+**Data-Driven Decision Making** -
 Transforms raw loan data into actionable insights that support strategic business decisions.
 
 ## Project Outcome
