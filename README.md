@@ -73,7 +73,7 @@ The primary objectives of this dashboard are:
 - Enable interactive exploration through filters and drill-down capabilities.
 
 ## • Walkthrough of Key Visuals
-1️⃣ **Executive Summary Dashboard**
+1️⃣ **Executive Summary Dashboard** -
 Designed for senior management and business stakeholders.
 
 **Key KPIs**
@@ -85,7 +85,7 @@ Designed for senior management and business stakeholders.
 
 This section provides an instant snapshot of overall portfolio performance.
 
-2️⃣ **Good Loan vs Bad Loan Analysis**
+2️⃣ **Good Loan vs Bad Loan Analysis** -
 One of the most critical sections for risk monitoring.
 
 **Good Loan Portfolio**
@@ -105,6 +105,7 @@ Business Value-
 Allows risk teams to evaluate portfolio quality and monitor potential credit losses.
 
 3️⃣ **Monthly Loan Application Trend Analysis**
+
 Visual: Line Chart
 
 Tracks loan applications across different months.
@@ -118,6 +119,7 @@ Insights Generated
 This helps management identify peak lending periods and customer demand patterns.
 
 4️⃣ **Geographic Lending Analysis**
+
 Visual: Interactive US Map
 
 Analyzes loan applications across different states.
@@ -129,6 +131,7 @@ Analyzes loan applications across different states.
 - Optimize marketing campaigns
 
 5️⃣ **Loan Term Analysis**
+
 Visual: Donut Chart
 Breakdown of loan applications by term:
 
@@ -139,6 +142,7 @@ Breakdown of loan applications by term:
 Understand borrower preferences regarding repayment duration and loan affordability.
 
 6️⃣ **Employment Length Analysis**
+
 Visual: Horizontal Bar Chart
 Measures loan applications across employment categories.
 
@@ -146,6 +150,7 @@ Business Impact-
 Provides insight into borrower stability and employment history, which are important factors in credit evaluation. 
 
 7️⃣ **Loan Purpose Analysis**
+
 Visual: Ranked Bar Chart
 
 Most common borrowing purposes include:
@@ -161,6 +166,7 @@ Business Value-
 Helps lenders understand customer borrowing behavior and develop targeted loan products.
 
 8️⃣ **Home Ownership Analysis**
+
 Visual: Treemap
 Borrowers categorized as:
 
@@ -171,7 +177,7 @@ Borrowers categorized as:
 Business Value-
 Supports customer segmentation and risk profiling.
 
-9️⃣ **Detailed Loan Reporting**
+9️⃣ **Detailed Loan Reporting** -
 
 A transactional-level dashboard designed for analysts.
 
