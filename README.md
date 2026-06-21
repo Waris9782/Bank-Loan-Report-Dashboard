@@ -13,12 +13,9 @@ The solution provides a 360-degree view of the loan portfolio, helping decision-
 The dashboard was built using the following tools and technologies:
 
 **📊 Power BI Desktop – Primary platform for dashboard development and interactive visualizations.**
-🗄️ SQL – Data extraction, querying, and business logic implementation.
-
-📈 Microsoft Excel – Data cleaning, preprocessing, and validation.
-
+**🗄️ SQL – Data extraction, querying, and business logic implementation.**
+**📈 Microsoft Excel** – Data cleaning, preprocessing, and validation.
 🐍 Python – Data transformation, analysis, and preparation.
-
 🔄 Power Query – ETL processes, data cleaning, and transformation.
 🧠 DAX (Data Analysis Expressions) – Calculated measures, KPIs, and dynamic reporting logic.
 🔗 Data Modeling – Relationship creation and optimization for efficient reporting.
